@@ -1,0 +1,2 @@
+# Cheker
+Scrip termux
