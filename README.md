@@ -20,10 +20,10 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/BlackFoxTM/Fox-CC
+https://github.com/Brayanchama1234/Cheker
 ```
 ```
-cd Fox-CC
+cd cheker
 ```
 ```
 pip3 install -r requirements.txt
